@@ -6,7 +6,7 @@ export const Contact = () => {
       <ul>
         <p>E-mail: mohammadmunzir2k@gmail.com</p>
         <p>Mobile: 7007693116</p>
-        <p>Address: B.S Abdur Rehman Crescent Institute of Science and Technology, Vandalur, Chennai-600048</p>
+        <p>Address: C 19/196 Lallapura, Varanasi 221010</p>
       </ul>
     </div>
   );
